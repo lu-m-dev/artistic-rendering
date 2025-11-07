@@ -1,6 +1,8 @@
 # Artistic Rendering
 An in-browser viewer of various lighting techniques, ranging from stylized cartoon shading to photorealistic lighting models, applied to 3D objects in OBJ format.
 
+_Please note: The full source code is omitted from this public mirror to preserve academic integrity. It can be provided for review upon request._
+
 ## Demo
 <img src="./demo.gif" alt="demo-gif" style="width: 60%; height: auto; display: block; margin: auto;"/>
 
