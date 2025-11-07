@@ -2,7 +2,7 @@
 An in-browser viewer of various lighting techniques, ranging from stylized cartoon shading to photorealistic lighting models, applied to 3D objects in OBJ format.
 
 ## Demo
-<img src="./demo.gif" alt="demo-gif" style="width: 80%; height: auto; display: block; margin: auto;"/>
+<img src="./demo.gif" alt="demo-gif" style="width: 60%; height: auto; display: block; margin: auto;"/>
 
 ## Features
 - OBJ file loader
